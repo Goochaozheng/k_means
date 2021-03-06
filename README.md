@@ -1,5 +1,4 @@
 # K-means
-2031561 Chaozheng Guo  
 Python implementation of k-means.  
 
 ### Packages reqired
