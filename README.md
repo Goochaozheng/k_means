@@ -5,7 +5,9 @@ Python implementation of k-means.
 ```numpy``` ```argparse```
 
 ### Usage
-```python kmeans.py```  
+``` shell
+python kmeans.py
+```  
 By default, this will load iris dataset and perform k-means clustering. Clustering result will be displayed.
 
 Some options can be specified for the program:  
